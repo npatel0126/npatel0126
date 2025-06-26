@@ -61,7 +61,5 @@ Feel free to connect or collaborate!
 
 📩 Email: npatell0126@gmail.com  
 📞 Phone: (647) 581-6764  
-🔗 LinkedIn: [linkedin.com/in/-neelpatel-](https://www.linkedin.com/in/-neelpatel-)  
-🌐 Portfolio: [npatel-portfolio.vercel.app](https://npatel-portfolio.vercel.app)
 
 ---
