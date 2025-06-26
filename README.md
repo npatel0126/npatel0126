@@ -16,7 +16,6 @@
 
 - 🎓 I'm a second-year Computer Science student at the **University of Toronto**, specializing in **Computer Science with a focus in Artificial Intelligence**
 - 🤖 Passionate about uncovering the potential of **AI** and **machine learning** to solve real-world problems
-- 👨‍🏫 Experienced instructor dedicated to making complex technical concepts accessible and engaging
 - ⚽ A huge football fan — loyal supporter of **FC Barcelona**
 - 💻 Always building — from full-stack web platforms to predictive ML models
 
