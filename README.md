@@ -12,6 +12,16 @@
 
 ---
 
+## 📊 About Me
+
+- 🎓 I'm a second-year Computer Science student at the **University of Toronto**, specializing in **Artificial Intelligence**
+- 🤖 Passionate about uncovering the potential of **AI** and **machine learning** to solve real-world problems
+- 👨‍🏫 Experienced instructor dedicated to making complex technical concepts accessible and engaging
+- ⚽ A huge football fan — loyal supporter of **FC Barcelona**
+- 💻 Always building — from full-stack web platforms to predictive ML models
+
+---
+
 ## 🚀 Technical Skills
 
 ### 🧠 Languages
@@ -45,16 +55,7 @@
 
 ---
 
-## 📊 About Me
-
-- 🎓 CS Specialist with Focus in Artifical Intelligence @ **University of Toronto**
-- 👨‍🏫 CS/Math Instructor passionate about teaching & learning
-- 🌱 Constantly building full-stack apps, ML models & community projects
-- ⚽ Soccer is my favorite sport — proud supporter of **FC Barcelona!**
-
----
-
-## 📫 Contact Me
+## 📫 Reach Out
 
 Feel free to connect or collaborate!
 
