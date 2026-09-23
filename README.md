@@ -13,7 +13,7 @@
 
 ## 📊 About Me
 
-- 🎓 I'm a second-year Computer Science student at the **University of Toronto**, specializing in **Computer Science with a focus in Artificial Intelligence**
+- 🎓 I'm a third-year Computer Science student at the **University of Toronto**, specializing in **Computer Science with a focus in Artificial Intelligence**
 - 🤖 Passionate about uncovering the potential of **AI** and **machine learning** to solve real-world problems
 - 💻 Always building — from full-stack web platforms to predictive ML models
 
