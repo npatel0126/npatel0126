@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Neel Patel: CS @ University of Toronto, Full-Stack Developer, ML & AI Enthusiast" width="100%" />
+  <img src="assets/banner (1).svg" alt="Neel Patel: CS @ University of Toronto, Full-Stack Developer, ML & AI Enthusiast" width="100%" />
 </p>
 
 <p align="center">
